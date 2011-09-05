@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Helvetica Medium";
+  src: url("/fonts/HelveticaNeueLTCom-Md.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Helvetica Heavy";
+  src: url("/fonts/HelveticaNeueLTCom-Hv.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Helvetica Thin";
+  src: url("/fonts/HelveticaNeueLTCom-Th.ttf") format("truetype");
+  font-weight: lighter;
+  font-style: normal; }
